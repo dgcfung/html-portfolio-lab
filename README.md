@@ -4,9 +4,11 @@
 
 In this lab, you'll be building a personal website to share with your classmates like the one shown below.
 
+![wk1-hmwk-design](https://media.git.generalassemb.ly/user/16103/files/20ee1f00-3f2f-11e9-86f9-b13a6ef7352c =250px)
+
 We will be using this mockup to build out our website.
 
-![mockup](https://media.git.generalassemb.ly/user/16103/files/652cef80-3f2e-11e9-80cb-480c79b47682)
+![mockup](https://media.git.generalassemb.ly/user/16103/files/652cef80-3f2e-11e9-80cb-480c79b47682 =400px)
 
 ## Installation
 
