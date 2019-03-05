@@ -2,13 +2,11 @@
 
 # HTML-CSS Portfolio Lab
 
-In this lab, you'll be building a personal website to share with your classmates like the one shown below.
+In this lab, you'll be building a personal website to share with your peers.
 
-![wk1-hmwk-design](https://media.git.generalassemb.ly/user/16103/files/20ee1f00-3f2f-11e9-86f9-b13a6ef7352c =250x)
+We will be using the following mockup to build out our website:
 
-We will be using this mockup to build out our website.
-
-![mockup](https://media.git.generalassemb.ly/user/16103/files/652cef80-3f2e-11e9-80cb-480c79b47682 =400x)
+<img src="https://media.git.generalassemb.ly/user/16103/files/652cef80-3f2e-11e9-80cb-480c79b47682" alt="portfolio mockup" width="400"/>
 
 ## Installation
 
@@ -166,6 +164,10 @@ Congratulations! You now have a beautifully designed website all about you!
 
 You can use all of the tools at your disposal to expand on this website,
 maybe even deploy it for all the world to see.
+
+Hopefully your website looks something like the following:
+
+<img src="https://media.git.generalassemb.ly/user/16103/files/20ee1f00-3f2f-11e9-86f9-b13a6ef7352c" alt="portfolio website example" width="400"/>
 
 There is more information below about the structure of this repo do you choose
 to build on this lab.
