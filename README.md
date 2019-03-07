@@ -17,6 +17,46 @@ We will be using the following mockup to build out our website:
 3. Follow the directions below.
 4. When finished, push to your fork.
 
+## Best Practices: UI / Accessibility
+
+Many website users have various disabilities and are neurodiverse. There are
+many easy decisions you can make about your HTML and CSS that will help people
+use your website, and these tips will also create a website that is easy to use
+for everyone.
+
+- Use HTML5 elements - not just divs!
+- Use high contrast between backgrounds and text.
+- Caption your images in a relevant way.
+- Don't use color or sound alone to show what an element does.
+- Organize content with headings and subheadings.
+
+## Debugging CSS
+
+The best way to debug anything is to be _methodical_. This includes CSS! If your
+elements are not behaving as you expect, here are the first steps. More
+information about debugging CSS is in the additional resources section below.
+
+- Make sure your class names are exactly the same in HTML and CSS.
+- Double check that your selectors are selecting the correct element.
+- Do not ADD MORE to things that aren't working. Take out the code that doesn't
+work before adding something else.
+
+## Browser Template
+
+At this point, it is probably helpful to introduce you to the Browser Template
+that you will be using in many of your projects. There may be a few things
+happening in here that you're not familiar with (and that's okay), but the most
+important thing to understand about the Browser Template is how it is
+structured in order to add styles to your HTML.
+
+I know we just showed you three distinct ways to add CSS to a page, but things
+are done a little bit differently in the Browser Template. This repo actually
+relies on said template, so let's take a look at how we would add styling to
+the example HTML page within. (Note, we will have to use `grunt serve` in order
+to view this page in our browser). `grunt serve` spins up a local server via
+Grunt. This local server allows us to work in a 'Development' environment
+to replicate what the 'Deployed' environment will be like.
+
 ## Instructions
 
 ### Developing Content
@@ -230,6 +270,16 @@ Developers should run these often!
 - `grunt build`: place bundled styles and scripts where `index.html` can find
     them
 - `grunt deploy`: builds and deploys master branch
+
+## Additional Resources
+
+Here are some sites you might want to bookmark, if you haven't already.
+
+- [HTML5 Element Flowchart](http://html5doctor.com/lets-talk-about-semantics/)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [CSS-Tricks](https://css-tricks.com)
+- [Using the browser to debug CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Debugging_CSS)
 
 ## [License](LICENSE)
 
